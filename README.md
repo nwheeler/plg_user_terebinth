@@ -1,4 +1,4 @@
 plg_user_terebinth
-==================
+===================
 
-Terebinth User Plugin
+See https://github.com/nwheeler/terebinth
