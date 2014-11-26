@@ -6,7 +6,7 @@
     <authorEmail>nwheeler@devis.com</authorEmail>
     <copyright>Copyright (C) 2013 - Nicholas Wheeler. All rights reserved.</copyright>
     <license>GNU General Public License version 2 or later</license>
-    <version>0.0.1</version>
+    <version>0.0.2</version>
     <description>PLG_USER_TEREBINTH_DESC</description>
     <scriptfile>terebinth.scriptfile.php</scriptfile>
     <files>
